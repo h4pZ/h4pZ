@@ -1,5 +1,5 @@
 ![logo](./logo.png)
+[![homepage][1]][2]
 
-INDUSTRIAL ENGINEER / ECONOMIST / STATISTICIAN
-
-[PROJECTS](https://h4pz.co/projects) [BLOG](https://h4pz.co/blog/) [ABOUT](https://h4pz.co/about/)
+[1]:  ./logo.png
+[2]:  https://www.h4pz.co "Redirect to homepage"
