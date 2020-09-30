@@ -1,4 +1,3 @@
-![logo](./logo.png)
 [![homepage][1]][2]
 
 [1]:  ./logo.png
