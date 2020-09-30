@@ -1,26 +1,4 @@
-### Hi there 👋
+![logo](https://static1.squarespace.com/static/5a021aa5a8b2b076f5ddc0b6/t/5a0230d7c83025f13caaf0ba/1510093016468/Screen+Shot+2017-11-07+at+5.16.36+PM.png?format=500w=)
 
-<html>
-<body>
-
-<h1>The iframe element</h1>
-
-<iframe src="https://www.h4pz.co" title="h4pZ"></iframe>
-
-</body>
-</html>
-
-<!--
-**h4pZ/h4pZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+INDUSTRIAL ENGINEER / ECONOMIST / STATISTICIAN
+[PROJECTS](https://h4pz.co/projects) [BLOG](https://h4pz.co/blog/) [ABOUT](https://h4pz.co/about/)
