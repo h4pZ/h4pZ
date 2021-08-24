@@ -1,8 +1,3 @@
-[![homepage][1]][2]
-
-[1]:  ./logo.png
-[2]:  https://www.h4pz.co "Redirect to homepage"
-
 <a href="https://www.h4pz.co/">
   <p align="center">
     <img src="https://raw.githubusercontent.com/h4pZ/h4pZ/master/logo.png">
