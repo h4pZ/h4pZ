@@ -4,8 +4,15 @@
   </p>
 </a>
 
+<p align="center">i'm a deep learning engineer</p>
+
+<p align="center">highly interested in the intersection between AI x Art, the wired and shell ghosts</p>
+
+----
 
 #### **<p align="center">the supreme vice is shallowness - oscar wilde</p>**
+
+----
 
 
 <a href="https://www.h4pz.co/">
