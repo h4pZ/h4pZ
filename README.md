@@ -4,8 +4,6 @@
   </p>
 </a>
 
-<p align="center">i'm a deep learning engineer</p>
-
 <p align="center">highly interested in the intersection between ai, the wired and shell ghosts</p>
 
 ----
