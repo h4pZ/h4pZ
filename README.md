@@ -10,10 +10,6 @@
 
 ----
 
-#### **<p align="center">the supreme vice is shallowness - oscar wilde</p>**
-
-----
-
 
 <a href="https://www.h4pz.co/">
   <p align="center">
