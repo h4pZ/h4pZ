@@ -4,7 +4,7 @@
   </p>
 </a>
 
-<p align="center">interested in the intersection between ai, the wired and shell ghosts</p>
+<p align="center">ai, the wired and shell ghosts</p>
 
 ----
 
